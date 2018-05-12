@@ -1,10 +1,16 @@
 _repo: The-Ballads-and-Songs-of-Yorkshire-Transcribed-from-Private-Manuscripts-Rare-Broadsides-and-S__47607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47607-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Ingledew, C. J. Davison
     gutenberg_agent_id: '44388'
     url: http://www.gutenberg.org/2009/agents/44388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47607#The-Ballads-and-Songs-of-Yorkshire-Transcribed-from-Private-Manuscripts-Rare-Broadsides-and-S_
 gutenberg_issued: '2014-12-09'
 gutenberg_type: Text
 identifiers:
